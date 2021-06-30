@@ -1,4 +1,4 @@
-# MemsTh
+# Welcome to my MemsTh React App
 
 This application shows mems and has upvoting and downvoting options. Additionally, you can find here also mini routing in React exactly.
 
